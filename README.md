@@ -32,11 +32,12 @@ Below are links to my various implementations of the services and apps. Parts of
 * **Tests**
     * [Node.js <small>— my-hn-tests-node-js</small>](https://github.com/andyfleming/my-hn-tests)
 * **API**
-    * Node.js <small>— my-hn-api-node-js</small>
+    * [Node.js <small>— my-hn-api-node-js</small>](https://github.com/andyfleming/my-hn-api-node-js)
     * Python <small>— my-hn-api-python</small>
     <!--* [Scala <small>— my-hn-api-scala</small>]()-->
 * **App**
-    * React + Redux <small>— my-hn-app-react</small>
+    * [Vanilla JS <small>my-hn-app-vanilla-js</small>](https://github.com/andyfleming/)
+    <!-- * React + Redux <small>— my-hn-app-react</small> -->
 * **Crawler Importer**
     * [Node.js <small>— my-hn-crawler-importer-node-js</small>](https://github.com/andyfleming/my-hn-crawler-importer-node-js)
     <!--* [Golang <small>— my-hn-crawler-importer-go</small>]() -->
