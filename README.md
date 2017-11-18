@@ -33,7 +33,7 @@ Below are links to my various implementations of the services and apps. Parts of
     * [Node.js <small>— my-hn-tests-node-js</small>](https://github.com/andyfleming/my-hn-tests)
 * **API**
     * [Node.js <small>— my-hn-api-node-js</small>](https://github.com/andyfleming/my-hn-api-node-js)
-    * Python <small>— my-hn-api-python</small>
+    <!-- * Python <small>— my-hn-api-python</small> -->
     <!--* [Scala <small>— my-hn-api-scala</small>]()-->
 * **App**
     * [Vanilla JS <small>my-hn-app-vanilla-js</small>](https://github.com/andyfleming/)
