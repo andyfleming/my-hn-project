@@ -1,10 +1,12 @@
 # My Hacker News ("MyHN") Project
 
-## Overview
-
 This is a full stack implementation of a "Hacker News" reader app. The project structure and a high-level specification are outlined below.
 
 **To run this project as a whole, read the instructions in [my-hn-dev-env](https://github.com/andyfleming/my-hn-dev-env).**
+
+Parts of the stack are written in multiple languages to demonstrate the flexibility of microservice/service-oriented architecture and competency in those languages. (I obviously would not suggest writing every part of the stack in a different language for a real use case.) The agnostic test suites can test any combination of the stack.
+
+![stack-animation](https://user-images.githubusercontent.com/721038/32997252-f5b1bab4-cd41-11e7-9b2f-f05eb94c100a.gif)
 
 ## Services / Apps / Environments
 
@@ -24,8 +26,6 @@ This is a full stack implementation of a "Hacker News" reader app. The project s
 
 
 ## Implementations
-
-Below are links to my various implementations of the services and apps. Parts of the stack are written in multiple languages to demonstrate the flexibility of microservice/service-oriented architecture and competency in those languages. (I obviously would not suggest writing every part of the stack in a different language for a real use case.)
 
 * **Dev Environment**
     * [Docker <small>– my-hn-dev-env</small>](https://github.com/andyfleming/my-hn-dev-env)
