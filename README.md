@@ -47,7 +47,7 @@ Parts of the stack are written in multiple languages to demonstrate the flexibil
       <tr>
          <td rowspan="3">
             <b>API</b>
-            <br>The primary API that will provide stories, comments, and bookmarks.
+            <br>The primary API that will provide stories, comments, and bookmarks. It also leverages Redis to cache expensive responses.
          </td>
          <td><a href="https://github.com/andyfleming/my-hn-api-node-js"><b>Node.js + Express</b><br><small>my-hn-api-node-js</small></a></td>
       </tr>
