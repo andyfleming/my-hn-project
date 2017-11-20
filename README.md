@@ -16,7 +16,7 @@ Parts of the stack are written in multiple languages to demonstrate the flexibil
    <thead>
       <tr>
          <th align="left">Description</th>
-         <th align="left" width="260">Implementations</th>
+         <th align="left" width="280">Implementations</th>
       </tr>
    </thead>
    <tbody>
