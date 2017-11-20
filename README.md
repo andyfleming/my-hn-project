@@ -39,7 +39,7 @@ Parts of the stack are written in multiple languages to demonstrate the flexibil
             <b>App</b>
             <br>The UI to consume the API. It will allow for stories, comments, and bookmarks to be viewed. Bookmarks can also be created, updated, and deleted.
          </td>
-         <td><a href="https://github.com/andyfleming/my-hn-app-react"><b>React + Redux</b><br><small>my-hn-app-react</small></a></td>
+         <td><!--<a href="https://github.com/andyfleming/my-hn-app-react">--><b>React + Redux</b><br><small>my-hn-app-react</small><!--</a>--></td>
       </tr>
       <tr>
          <td><a href="https://github.com/andyfleming/my-hn-app-vanilla-js"><b>Vanilla JS</b><br><small>my-hn-app-vanilla-js</small></a></td>
@@ -52,10 +52,10 @@ Parts of the stack are written in multiple languages to demonstrate the flexibil
          <td><a href="https://github.com/andyfleming/my-hn-api-node-js"><b>Node.js + Express</b><br><small>my-hn-api-node-js</small></a></td>
       </tr>
       <tr>
-         <td><a href="https://github.com/andyfleming/my-hn-api-python"><b>Python + Flask<br><small>my-hn-api-python</small></a></td>
+         <td><!--<a href="https://github.com/andyfleming/my-hn-api-python">--><b>Python + Flask<br><small>my-hn-api-python</small><!--</a>--></td>
       </tr>
       <tr>
-         <td><a href="https://github.com/andyfleming/my-hn-api-scala"><b>Scala + Finatra</b><br><small>my-hn-api-scala</small></a></td>
+         <td><!--<a href="https://github.com/andyfleming/my-hn-api-scala">--><b>Scala + Finatra</b><br><small>my-hn-api-scala</small><!--</a>--></td>
       </tr>
         <tr>
          <td>
