@@ -38,7 +38,7 @@ Parts of the stack are written in multiple languages to demonstrate the flexibil
     <!-- * Python <small>— my-hn-api-python</small> -->
     <!--* [Scala <small>— my-hn-api-scala</small>]()-->
 * **App**
-    * [Vanilla JS <small>my-hn-app-vanilla-js</small>](https://github.com/andyfleming/)
+    * [Vanilla JS <small>— my-hn-app-vanilla-js</small>](https://github.com/andyfleming/)
     <!-- * React + Redux <small>— my-hn-app-react</small> -->
 * **Crawler Importer**
     * [Node.js <small>— my-hn-crawler-importer-node-js</small>](https://github.com/andyfleming/my-hn-crawler-importer-node-js)
