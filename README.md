@@ -1,4 +1,6 @@
-# My Hacker News ("MyHN") Project
+![MyHN](https://user-images.githubusercontent.com/721038/33003466-c3c655b8-cd6f-11e7-9258-afa9f73f089d.png)
+
+# My Hacker News Project
 
 This is a full stack implementation of a "Hacker News" reader app. The project structure and a high-level specification are outlined below.
 
